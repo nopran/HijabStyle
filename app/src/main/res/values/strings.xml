@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Man Hair Style Editor</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="full_screen_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string-array name="colors">
+        <item>#96ffffff</item>
+        <item>#96e9adad</item>
+        <item>#96c94f4f</item>
+        <item>#96a983</item>
+        <item>#96b592</item>
+        <item>#963131</item>
+        <item>#96da85</item>
+        <item>#966767</item>
+        <item>#965b83</item>
+        <item>#965151</item>
+        <item>#967070</item>
+        <item>#96efef</item>
+        <item>#968787</item>
+        <item>#96c9c4</item>
+        <item>#96c9e4</item>
+        <item>#966f7c</item>
+        <item>#968282</item>
+        <item>#965c52</item>
+        <item>#966d4b</item>
+        <item>#964b487e</item>
+        <item>#96280101</item>
+        <item>#9603072b</item>
+    </string-array>
+
+ </resources>

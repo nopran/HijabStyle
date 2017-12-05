@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#707489</color>
+    <color name="colorPrimaryDark">#60626e</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ber">#b92a6b6c</color>
+    <color name="snack">#897d50</color>
+
+</resources>
